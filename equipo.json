@@ -1,12 +1,12 @@
 {
   "integrante_a": {
-    "nombre": "PENDIENTE",
-    "github_user": "PENDIENTE",
-    "rol": "PENDIENTE"
+    "nombre": "Camilo Rodriguez",
+    "github_user": "crodriguez19507-prog",
+    "rol": "Lider de Integración"
   },
   "integrante_b": {
-    "nombre": "PENDIENTE",
-    "github_user": "PENDIENTE",
-    "rol": "PENDIENTE"
+    "nombre": "Adrian Maldonado",
+    "github_user": "AdrianM07812",
+    "rol": "Desarrollador Secundario"
   }
 }
